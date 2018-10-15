@@ -1,0 +1,84 @@
+﻿
+
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <title>Caculator Client</title>
+    <script src="/scripts/jquery-3.3.1.js"></script>
+    <script>
+        $(document).ready(function () {
+
+            $(":button").click(function () {
+                var value1 = $("#txtValue1").val();
+                var value2 = $("#txtValue2").val();
+                var arg = "value1=" + value1 + "&value2=" + value2;
+                var control = event.target || event.srcElement;
+                var id = control.id
+
+
+
+                var urlString = "/api/values/";
+
+                switch (id) {
+                    case 'btnAdd':
+                        urlString = urlString + "Add/?" + arg;
+                        break;
+                    case 'btnMinus':
+                        urlString = urlString + "Subtract/?" + arg;
+                        break;
+                    case 'btnMultiply':
+                        urlString = urlString + "Multiply/?" + arg;
+                        break;
+                    case 'btnDivide':
+                        urlString = urlString + "Divide/?" + arg;
+                        break;
+                    default:
+                        urlString = urlString + "hello";
+
+                }
+
+                $.ajax({
+                    url: urlString,
+                    type: "GET",
+                    dataType: 'json',
+                    success: function (result) {
+                        $("#txtResult").val(result);
+
+                    },
+                    error: function (xhr, status, error) {
+                        var err = eval("(" + xhr.responseText + ")");
+                        $("#txtResult").val(err.Message)
+                    }
+                });
+            });
+
+        });
+    </script>
+
+</head>
+
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+    <div style="text-align:center">
+        <h2><u>Calculator client </u></h2>
+
+
+        <h5>Enter Value1 :</h5>   <input type="number" class="w3-button w3-small w3-black w3-border-blue"
+                                       id="txtValue1" ><br><br>
+        <h5>Enter Value2 :</h5>   <input type="number" class="w3-button w3-small w3-black w3-border-blue"
+                                       id="txtValue2" ><br /><br>
+
+        <input type="button" class="w3-button w3-blue w3-border w3-hover-black w3-border-red w3-round-xxlarge"  style="width:250px;font-size:13pt;padding:2px; border:3px solid blue" value="Add" id="btnAdd"><br /><br />
+        <input type="button" class="w3-button w3-blue w3-border w3-hover-black w3-border-red w3-round-xxlarge" style="width:250px;font-size:13pt;padding:2px; border:3px solid blue" value="Subtract" id="btnMinus"><br /><br />
+        <input type="button" class="w3-button w3-blue w3-border w3-hover-black w3-border-red w3-round-xxlarge" style="width:250px;font-size:13pt;padding:2px; border:3px solid blue" value="Multiply" id="btnMultiply"><br /><br />
+        <input type="button" class="w3-button w3-blue w3-border w3-hover-black w3-border-red w3-round-xxlarge" style="width:250px;font-size:13pt;padding:2px; border:3px solid blue" value="Divide" id="btnDivide"><br /><br />
+                                                                                                                                                                                                                         <h3>Result from Mathcalci API Service :</h3> <input type="text" class="w3-button w3-black w3-border w3-padding-small w w3-teal"
+                                              id="txtResult" disabled /><br /><br>
+
+    </div>
+
+</body>
+</html>

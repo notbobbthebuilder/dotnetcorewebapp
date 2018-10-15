@@ -1,0 +1,17 @@
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\bin\Debug\netcoreapp2.1\linux-arm\libhostpolicy.so
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\bin\Debug\netcoreapp2.1\linux-arm\libhostfxr.so
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\bin\Debug\netcoreapp2.1\linux-arm\mathcalci
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\bin\Debug\netcoreapp2.1\linux-arm\mathcalci.deps.json
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\bin\Debug\netcoreapp2.1\linux-arm\mathcalci.runtimeconfig.json
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\bin\Debug\netcoreapp2.1\linux-arm\mathcalci.runtimeconfig.dev.json
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\bin\Debug\netcoreapp2.1\linux-arm\mathcalci.dll
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\bin\Debug\netcoreapp2.1\linux-arm\mathcalci.pdb
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\linux-arm\mathcalci.csprojAssemblyReference.cache
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\linux-arm\mathcalci.csproj.CoreCompileInputs.cache
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\linux-arm\mathcalci.RazorAssemblyInfo.cache
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\linux-arm\mathcalci.RazorAssemblyInfo.cs
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\linux-arm\mathcalci.AssemblyInfoInputs.cache
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\linux-arm\mathcalci.AssemblyInfo.cs
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\linux-arm\mathcalci.RazorTargetAssemblyInfo.cache
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\linux-arm\mathcalci.dll
+C:\Users\NRaghunath\source\repos\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\linux-arm\mathcalci.pdb
