@@ -1,0 +1,17 @@
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\bin\Debug\netcoreapp2.1\mathcalcitest.deps.json
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\bin\Debug\netcoreapp2.1\mathcalcitest.runtimeconfig.json
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\bin\Debug\netcoreapp2.1\mathcalcitest.runtimeconfig.dev.json
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\bin\Debug\netcoreapp2.1\mathcalcitest.dll
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\bin\Debug\netcoreapp2.1\mathcalcitest.pdb
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\bin\Debug\netcoreapp2.1\mathcalci.dll
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\bin\Debug\netcoreapp2.1\mathcalci.pdb
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\mathcalcitest.csprojAssemblyReference.cache
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\mathcalcitest.csproj.CoreCompileInputs.cache
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\mathcalcitest.AssemblyInfoInputs.cache
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\mathcalcitest.AssemblyInfo.cs
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\mathcalcitest.csproj.CopyComplete
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\mathcalcitest.dll
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\mathcalcitest.pdb
