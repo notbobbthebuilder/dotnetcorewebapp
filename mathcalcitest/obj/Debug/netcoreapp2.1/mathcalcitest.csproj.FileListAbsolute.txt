@@ -15,3 +15,6 @@ C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\math
 C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\mathcalcitest.csproj.CopyComplete
 C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\mathcalcitest.dll
 C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\mathcalcitest.pdb
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\mathcalcitest.RazorAssemblyInfo.cache
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\mathcalcitest.RazorAssemblyInfo.cs
+C:\Users\nraghunath\Desktop\mathcalci\mathcalcitest\obj\Debug\netcoreapp2.1\mathcalcitest.RazorTargetAssemblyInfo.cache
