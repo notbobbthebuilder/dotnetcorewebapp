@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28010.2041
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "mathcalci", "mathcalci\mathcalci.csproj", "{29600224-B3F8-4A4A-961F-FE2E8F459897}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XUnitTestProjectMath", "XUnitTestProjectMath\XUnitTestProjectMath.csproj", "{7A2E9DB5-2EDF-4939-83A2-65EFE8B189AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProjecttestmath", "UnitTestProjecttestmath\UnitTestProjecttestmath.csproj", "{ACE1C629-301E-4187-81AF-F4A60EFFF252}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{29600224-B3F8-4A4A-961F-FE2E8F459897}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29600224-B3F8-4A4A-961F-FE2E8F459897}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29600224-B3F8-4A4A-961F-FE2E8F459897}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7A2E9DB5-2EDF-4939-83A2-65EFE8B189AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7A2E9DB5-2EDF-4939-83A2-65EFE8B189AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7A2E9DB5-2EDF-4939-83A2-65EFE8B189AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7A2E9DB5-2EDF-4939-83A2-65EFE8B189AD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACE1C629-301E-4187-81AF-F4A60EFFF252}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACE1C629-301E-4187-81AF-F4A60EFFF252}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACE1C629-301E-4187-81AF-F4A60EFFF252}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACE1C629-301E-4187-81AF-F4A60EFFF252}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
