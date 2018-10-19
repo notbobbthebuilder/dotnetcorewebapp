@@ -25,3 +25,4 @@ C:\Users\nraghunath\Desktop\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\mathcalc
 C:\Users\nraghunath\Desktop\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\mathcalci.RazorTargetAssemblyInfo.cache
 C:\Users\nraghunath\Desktop\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\mathcalci.dll
 C:\Users\nraghunath\Desktop\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\mathcalci.pdb
+C:\Users\nraghunath\Desktop\mathcalci\mathcalci\obj\Debug\netcoreapp2.1\mathcalci.csprojAssemblyReference.cache
