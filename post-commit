@@ -1,3 +1,0 @@
-#!/bin/sh
-curl --user nikhil116003c4c955bb9d290914e730862d0567 http://localhost:8080/job/jenkins%20Pipeline/build?token=gitbuildsolution
-echo 'Jenkins build from an external script
